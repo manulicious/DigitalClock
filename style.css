@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(43, 42, 42);
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    color: white;
+}
+
+#clock {
+    align-items: center;
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+  }
